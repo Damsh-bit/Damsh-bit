@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://damiancoronel.tech](https://damiancoronel.tech)
 
