@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://damiancoronel.tech](https://damiancoronel.tech)
+- 👨‍💻 All of my projects are available at [https://damiancoronel.dev](https://damiancoronel.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
