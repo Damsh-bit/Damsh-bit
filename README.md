@@ -70,7 +70,7 @@ const damian = {
 
 ## 🚀 Proyectos destacados
 
-**[10v10 Stats](https://github.com/Damsh-bit/10v10stats)** &nbsp;<sub><code><!--c:10v10stats-->140<!--/c--> commits</code></sub><br>
+**[10v10 Stats](https://github.com/Damsh-bit/10v10stats)** &nbsp;<sub><code><!--c:10v10stats-->141<!--/c--> commits</code></sub><br>
 Ladder, estadísticas y generador de equipos balanceados para las partidas 10v10 de CS2, con apuestas vía Mercado Pago.<br>
 <sub>Next.js · Supabase · Gemini &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/10v10stats) · [demo ↗](https://strike-zone-app.vercel.app)</sub>
 
@@ -82,7 +82,7 @@ Regalos digitales interactivos tipo historias: se personalizan online y se abren
 Sistema de gestión para gimnasios: socios, membresías, cobranzas, asistencias y portal de autogestión.<br>
 <sub>ASP.NET Core · React · PostgreSQL · Docker &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/FitCore) · [demo ↗](https://fit-core-delta.vercel.app)</sub>
 
-**[Portfolio 2026](https://github.com/Damsh-bit/portfolio2026)** &nbsp;<sub><code><!--c:portfolio2026-->32<!--/c--> commits</code></sub><br>
+**[Portfolio 2026](https://github.com/Damsh-bit/portfolio2026)** &nbsp;<sub><code><!--c:portfolio2026-->34<!--/c--> commits</code></sub><br>
 Mi portfolio: un universo minimalista interactivo en Canvas 2D + Three.js, con panel de administración y chatbot.<br>
 <sub>JavaScript · Three.js · WebGL &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/portfolio2026) · [demo ↗](https://damiancoronel.com)</sub>
 
@@ -90,7 +90,7 @@ Mi portfolio: un universo minimalista interactivo en Canvas 2D + Three.js, con p
 Sitio para un contratista de Houston especializado en patios, pérgolas y cocinas exteriores.<br>
 <sub>React · Vite · Supabase &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/homefix) · [demo ↗](https://homefix-iota.vercel.app)</sub>
 
-**[Organizaditto](https://github.com/Damsh-bit/Organizaditto)** &nbsp;<sub><code><!--c:Organizaditto-->29<!--/c--> commits</code></sub><br>
+**[Organizaditto](https://github.com/Damsh-bit/Organizaditto)** &nbsp;<sub><code><!--c:Organizaditto-->31<!--/c--> commits</code></sub><br>
 Asistente personal que conecta nutrición, entrenamiento, trabajo y crianza en una sola app.<br>
 <sub>Next.js · Drizzle · Neon &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/Organizaditto) · [demo ↗](https://organizaditto.vercel.app)</sub>
 
