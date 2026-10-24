@@ -110,7 +110,7 @@ Panel para comprimir imágenes por lotes y convertirlas a WebP con calidad ajust
 Bot de Discord tipo Mudae pero de fútbol: tirá, coleccioná e intercambiá cartas de jugadores.<br>
 <sub>Python · discord.py &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/fulbitto)</sub>
 
-**[ObsToText](https://github.com/Damsh-bit/obstotext)** &nbsp;<sub><code><!--c:obstotext-->5<!--/c--> commits</code></sub><br>
+**[ObsToText](https://github.com/Damsh-bit/obstotext)** &nbsp;<sub><code><!--c:obstotext-->6<!--/c--> commits</code></sub><br>
 Transcribe grabaciones de reuniones con Whisper y completa solo el formulario de calificación con Claude.<br>
 <sub>Next.js · ffmpeg.wasm · Claude &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/obstotext) · [demo ↗](https://obstotext.vercel.app)</sub>
 
