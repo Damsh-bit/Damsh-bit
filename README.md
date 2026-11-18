@@ -74,7 +74,7 @@ const damian = {
 Ladder, estadísticas y generador de equipos balanceados para las partidas 10v10 de CS2, con apuestas vía Mercado Pago.<br>
 <sub>Next.js · Supabase · Gemini &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/10v10stats) · [demo ↗](https://strike-zone-app.vercel.app)</sub>
 
-**[Boxie Digital](https://github.com/Damsh-bit/Boxie)** &nbsp;<sub><code><!--c:Boxie-->114<!--/c--> commits</code></sub><br>
+**[Boxie Digital](https://github.com/Damsh-bit/Boxie)** &nbsp;<sub><code><!--c:Boxie-->129<!--/c--> commits</code></sub><br>
 Regalos digitales interactivos tipo historias: se personalizan online y se abren desde el celular con un link.<br>
 <sub>Next.js · Supabase · Mercado Pago · Playwright &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/Boxie) · [demo ↗](https://boxie-digital.vercel.app)</sub>
 
@@ -82,7 +82,7 @@ Regalos digitales interactivos tipo historias: se personalizan online y se abren
 Sistema de gestión para gimnasios: socios, membresías, cobranzas, asistencias y portal de autogestión.<br>
 <sub>ASP.NET Core · React · PostgreSQL · Docker &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/FitCore) · [demo ↗](https://fit-core-delta.vercel.app)</sub>
 
-**[Portfolio 2026](https://github.com/Damsh-bit/portfolio2026)** &nbsp;<sub><code><!--c:portfolio2026-->49<!--/c--> commits</code></sub><br>
+**[Portfolio 2026](https://github.com/Damsh-bit/portfolio2026)** &nbsp;<sub><code><!--c:portfolio2026-->50<!--/c--> commits</code></sub><br>
 Mi portfolio: un universo minimalista interactivo en Canvas 2D + Three.js, con panel de administración y chatbot.<br>
 <sub>JavaScript · Three.js · WebGL &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/portfolio2026) · [demo ↗](https://damiancoronel.com)</sub>
 
