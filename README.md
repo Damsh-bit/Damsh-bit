@@ -74,7 +74,7 @@ const damian = {
 Ladder, estadísticas y generador de equipos balanceados para las partidas 10v10 de CS2, con apuestas vía Mercado Pago.<br>
 <sub>Next.js · Supabase · Gemini &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/10v10stats) · [demo ↗](https://strike-zone-app.vercel.app)</sub>
 
-**[Boxie Digital](https://github.com/Damsh-bit/Boxie)** &nbsp;<sub><code><!--c:Boxie-->135<!--/c--> commits</code></sub><br>
+**[Boxie Digital](https://github.com/Damsh-bit/Boxie)** &nbsp;<sub><code><!--c:Boxie-->139<!--/c--> commits</code></sub><br>
 Regalos digitales interactivos tipo historias: se personalizan online y se abren desde el celular con un link.<br>
 <sub>Next.js · Supabase · Mercado Pago · Playwright &nbsp;—&nbsp; [repo](https://github.com/Damsh-bit/Boxie) · [demo ↗](https://boxie-digital.vercel.app)</sub>
 
